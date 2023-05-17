@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi | Hallo | नमस्ते  👋
 
 
-**mohit-choithwani/mohit-choithwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Mohit-Choithwani**
 
 - 🔭 I’m currently Studying masters in Data Science at FAU, Germany
 - 🌱 I’m currently in the final year and working on my thesis.
