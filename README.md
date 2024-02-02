@@ -10,4 +10,4 @@
 
 - ⚡ Fun fact: I lift weights and optimize algorithms. Building muscles and predictive models! (Sweating data and calories)
 
-Skills: Machine Learning | Deep Learning | Image Processing | Data Structure | Algorithms | Probability and Random Variables | Statistics | Python | Salesforce
+Skills: Machine Learning | Deep Learning | Image Processing | Data Structure | Algorithms | Statistics | Python | Salesforce
